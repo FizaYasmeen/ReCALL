@@ -4,14 +4,7 @@ This is a Next.js project bootstrapped with create-next-app.
 
 # Getting Started
 First, run the development server:
-
-npm run dev
- or
-yarn dev
- or
-pnpm dev
- or
-bun dev
+- npm run dev / yarn dev / pnpm dev / bun dev
 
 Open http://localhost:3000 with your browser to see the result.
 
@@ -23,7 +16,9 @@ This project uses next/font to automatically optimize and load Geist, a new font
 To learn more about Next.js, take a look at the following resources:
 
 Next.js Documentation - learn about Next.js features and API.
+
 Learn Next.js - an interactive Next.js tutorial.
+
 You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
 
 # Deploy on Vercel
